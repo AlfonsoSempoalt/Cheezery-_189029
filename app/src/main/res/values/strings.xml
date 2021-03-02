@@ -16,4 +16,16 @@
     <string name="salties">Salties</string>
     <string name="combos">Combos</string>
     <string name="customizable">Custom</string>
+    <string name="caramelFrap">Caramel Frap</string>
+    <string name="chocolateFrap">Chocolate Frap</string>
+    <string name="coldBrew">Cold Brew</string>
+    <string name="matchaLatte">Matcha Latte</string>
+    <string name="oreoMilkshake">Oreo Milkshake</string>
+    <string name="peanutMilkshake">Peanut Milkshake</string>
+    <string name="cFrapDescription">Caramel syrup meets coffee, milk and ice and whipped cream and buttery caramel sauce layer the love on top.</string>
+    <string name="chocoFDescription">Rich mocha-flavored sauce meets up with chocolaty chips, milk and ice for a blender bash.</string>
+    <string name="coldBrewDescription">Created by steeping medium-to-coarse ground coffee in room temperature water for 12 hours or longer.</string>
+    <string name="matchaDescription">Leafy taste of matcha green tea powder with creamy milk and a little sugar for a flavor balance that will leave you feeling ready and raring to go.</string>
+    <string name="oreoDescription">Chocolate ice cream, and oreo cookies. Topped with whipped cream with cocoa and chocolate syrup.</string>
+    <string name="peanutDescription">Vanilla ice cream, mixed with peanut butter and chocolate.</string>
 </resources>
